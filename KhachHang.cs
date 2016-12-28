@@ -9,8 +9,6 @@ using System.Windows.Forms;
 using System.Data.SqlClient;
 using System.IO;
 
-//////QLTX
-
 namespace QL_ThueXe
 {
     public partial class KhachHang : Form

@@ -1,4 +1,4 @@
-﻿namespace QL_ThueXe
+﻿namespace QL_ThueXe //QLTX
 {
     partial class KhachHang
     {
